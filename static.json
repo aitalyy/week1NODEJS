@@ -6,8 +6,9 @@
       "Access-Control-Allow-Origin": "*",
       
     }
-    "routes": {
+    
+  }
+  "routes": {
         "/login": "login.html"
       }
-  }
 }
