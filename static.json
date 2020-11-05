@@ -4,11 +4,9 @@
       "Content-Type": "text/plain; charset=UTF-8",
       "X-Author": "aytal_en",
       "Access-Control-Allow-Origin": "*"
-      {
-"routes": {
-      "/login": "login.html"
     }
-}
+    "routes": {
+      "/login": "login.html"
     }
     
   }
