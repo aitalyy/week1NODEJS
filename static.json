@@ -1,7 +1,7 @@
 {
   "headers":{
     "/sample":{
-      "X-Author": "aytal_en",
+      "X-Author": "aytal_en2",
       "Access-Control-Allow-Origin": "*"
     }
   }
