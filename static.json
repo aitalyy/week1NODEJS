@@ -1,7 +1,7 @@
 {
   "routes": {
-    "/login/*": "index.html",
-     "/sample/*": "index2.html"
+    "/login/*": "login.html",
+     "/sample/*": "sample.html"
   },
   "headers": {
     "/login/*": {
