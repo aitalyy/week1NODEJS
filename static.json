@@ -1,6 +1,6 @@
 {
   "headers":{
-    "/*":{
+    "/sample":{
       "X-Author": "aytal_en",
       "Access-Control-Allow-Origin": "*"
     }
