@@ -4,7 +4,8 @@
       "Content-Type": "text/plain; charset=UTF-8",
       "X-Author": "aytal_en",
       "Access-Control-Allow-Origin": "*",
-      "routes": [{ "src": "/login", "dest": "/public_html/login.html" }]
+      
     }
+    "routes": [{ "src": "/login", "dest": "/login.html" }]
   }
 }
