@@ -7,9 +7,10 @@
       
     }
   }
-}
-{
+  {
 "routes": {
       "/login": "login.html"
     }
 }
+}
+
