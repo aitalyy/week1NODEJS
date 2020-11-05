@@ -3,7 +3,7 @@
     "/*":{
       "X-Author": "aytal_en",
       "Access-Control-Allow-Origin": "*",
-      "success_url": "/welcome"
+      "index": "/public_html/index.html"
     }
   }
 }
