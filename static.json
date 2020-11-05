@@ -5,7 +5,7 @@
       "X-Author": "aytal_en",
       "Access-Control-Allow-Origin": "*",
       "route": "/login",
-      "serve": "/login.html"
+      "handler": "login.html"
     }
   }
 }
