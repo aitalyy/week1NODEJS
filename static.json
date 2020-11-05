@@ -5,11 +5,6 @@
       "X-Author": "aytal_en",
       "Access-Control-Allow-Origin": "*"
     }
-    "/public_html/*":{
-      "routes": {
-        "/login": "login.html"
-      }
-    }
   }
 }
 
