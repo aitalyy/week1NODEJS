@@ -6,11 +6,9 @@
       "Access-Control-Allow-Origin": "*",
       
     }
+    "routes": {
+      "/login": "login.html"
+    }
   }
   
-}
-{
-  "routes": {
-    "/login": "login.html"
-   }
 }
